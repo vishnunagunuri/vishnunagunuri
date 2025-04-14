@@ -7,7 +7,7 @@
 ## 💼 About Me
 
 - 🔭 Currently working as a **Data Engineer**
-- 🛠️ 2+ years of experience in **ETL Development** (TCS) using **Azure Data Factory**, **Databricks**,**SQL**, **Python** and **IBM Datastage**
+- 🛠️ 2+ years of experience in **Data Engineering** (TCS) using **Azure Data Factory**, **Databricks**,**SQL**, **Python** and **IBM Datastage**
 - 🌐 Building and managing **multi-cloud data pipelines** on **Azure** and **AWS**
 - 📦 Hands-on with **Azure Data Factory**, **Databricks**, **Delta Lake**, **AWS S3**, and **Glue**
 - 📊 Strong background in data analysis, modeling, and visualization
