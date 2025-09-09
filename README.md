@@ -61,8 +61,8 @@
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 vishnunagunuri3@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishnuvardhan-nagunuri408)
+- 📧 vishnuvardhannagunuri408@gmail.com
 
 ---
 
